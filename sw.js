@@ -1,4 +1,4 @@
-const CACHE_NAME = 'mechbees-repair-v5';
+const CACHE_NAME = 'MechB-Repair-Service-Bill-v5';
 const APP_SHELL = [
   './',
   './index.html',
