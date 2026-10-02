@@ -1,10 +1,7 @@
 {
-  "id": "./",
   "name": "MechBees Repair & Service",
   "short_name": "MechBees Repair",
   "description": "MechBees repair service and invoice billing application.",
-  "lang": "en-IN",
-  "dir": "ltr",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
